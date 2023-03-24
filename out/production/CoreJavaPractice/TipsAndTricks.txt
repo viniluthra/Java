@@ -1,0 +1,1 @@
+1. To count the number of digits : (int)(Math.log10(num)) + 1;
