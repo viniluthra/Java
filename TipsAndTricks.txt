@@ -1,3 +1,0 @@
-1. To count the number of digits : (int)(Math.log10(num)) + 1;
-2. Better way to calculate middle element in binary search : start + (end-start)/2
-3. Best way to check the order in which array is sorted for binary search : arr[start] > arr[end] - order agnostic binary search (compare first and last element of the array)  
